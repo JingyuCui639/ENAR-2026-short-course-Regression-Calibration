@@ -1,0 +1,28 @@
+/* ===== Bigger TOC title ("Table of contents") ===== */
+.toc-title {
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+}
+
+/* ===== Bigger TOC entries ===== */
+nav#TOC, nav[role="doc-toc"] {
+  font-size: 1.10rem;          /* overall TOC text size */
+  line-height: 1.35;           /* more breathing room */
+}
+
+/* ===== More space between each TOC item (subtitles) ===== */
+nav#TOC li, nav[role="doc-toc"] li {
+  margin: 0.45rem 0;           /* vertical spacing between items */
+}
+
+/* Optional: slightly more spacing for nested levels */
+nav#TOC ul ul li, nav[role="doc-toc"] ul ul li {
+  margin: 0.35rem 0;
+}
+
+/* Optional: make links a bit easier to read/click */
+nav#TOC a, nav[role="doc-toc"] a {
+  padding: 0.10rem 0;
+  display: inline-block;
+}

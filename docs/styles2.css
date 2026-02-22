@@ -1,0 +1,33 @@
+/* ===== Main content font sizes ===== */
+body {
+  font-size: 18px;        /* try 17–19px */
+  line-height: 1.65;
+}
+
+/* headings similar to many pkgdown/quarto sites */
+h1 { font-size: 2.2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.4rem; }
+
+/* code blocks (optional) */
+pre, code {
+  font-size: 0.95em;
+}
+
+/* ===== Right sidebar "On this page" TOC ===== */
+#quarto-margin-sidebar .toc-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+#quarto-margin-sidebar nav#TOC,
+#quarto-margin-sidebar nav[role="doc-toc"] {
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+
+#quarto-margin-sidebar nav#TOC li,
+#quarto-margin-sidebar nav[role="doc-toc"] li {
+  margin: 0.35rem 0;     /* space between items */
+}
