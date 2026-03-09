@@ -29,7 +29,9 @@ regCalibCRS(
   family = NULL,
   link = NULL
 )
-Arguments
+```
+---
+## Arguments
 ms
 
 A data frame containing the main study dataset.
