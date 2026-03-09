@@ -57,7 +57,7 @@ Character string naming the outcome variable in the main study. This argument is
 Outcome-model fitting method. Currently supported values are `"lm"` and `"glm"`. The code uses `lm()` when `method = "lm"` and `glm()` when `method = "glm"`.
 
 ### `family`
-Family object passed to `glm()` when `method = "glm"`, for example `binomial(link = "logit")` or `gaussian()`. Required for generalized linear outcome models.
+Family object passed to `glm()` when `method = "glm"`, for example `binomial(link = "logit")` or `gaussian()`. Required for generalized linear outcome models. See ['family'](https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/family) for details of family functions.
 
 ### `link`
 Character link name documented in the source and slides, such as `"logit"` or `"log"`. The current code uses `link` when constructing the asymptotic variance calculations, but the actual `glm()` call is driven by `family`, not by `link` directly. In practice, the safest choice is to specify the desired link inside `family` and keep `link` consistent with it.
