@@ -277,7 +277,7 @@ rcdf <- regCalibRSW(
 
 ## See Also
 
-- `regCalibCRS()` for regression calibration using the imputation method.
+- [`regCalibCRS()`](docs/regCalibCRS.md) for regression calibration using the imputation method.
 
 ---
 
