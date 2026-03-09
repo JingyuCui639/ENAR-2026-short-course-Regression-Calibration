@@ -32,7 +32,7 @@ regCalibCRS(
 ```
 ---
 ## Arguments
-ms
+`ms`
 
 A data frame containing the main study dataset.
 
@@ -46,7 +46,7 @@ and any correctly measured covariates included in covOutcome.
 
 If an internal validation design is used (external = FALSE), then ms should also contain the validation-sample indicator specified by vsIndicator.
 
-vs
+`vs`
 
 A data frame containing the validation dataset.
 
@@ -60,7 +60,7 @@ and any correctly measured covariates listed in covCalib.
 
 If external = FALSE, then the validation data are internal to the main study, so the structure of vs should be consistent with the internal validation setting used by the function.
 
-sur
+`sur`
 
 A character vector specifying the names of the surrogate variables measured with error.
 
@@ -71,7 +71,7 @@ sur = c("fqtfatinc", "fqcalinc", "fqalcinc")
 
 In this example, the variables in sur are the error-prone measurements used in the main dataset.
 
-exp
+`exp`
 
 A character vector specifying the names of the true variables in the validation dataset.
 
@@ -82,7 +82,7 @@ exp = c("drtfatinc", "drcalinc", "dralcinc")
 
 Here, each variable in exp is treated as the true counterpart of the corresponding variable in sur.
 
-covCalib
+`covCalib`
 
 A character vector specifying the names of correctly measured covariates included in the calibration model.
 
@@ -95,7 +95,7 @@ covCalib = c("agec")
 
 This means that age is included as a correctly measured predictor in the calibration model.
 
-covOutcome
+`covOutcome`
 
 A character vector specifying the names of correctly measured covariates included in the outcome model.
 
@@ -108,7 +108,7 @@ covOutcome = c("agec")
 
 This means that age is adjusted for in the outcome model.
 
-outcome
+`outcome`
 
 A character string giving the name of the outcome variable in the main study dataset.
 
@@ -131,7 +131,7 @@ method = "glm"
 
 Choose "glm" when the outcome is binary, count, or otherwise modeled through a generalized linear model.
 
-external
+`external`
 
 A logical value indicating whether the validation dataset is external.
 
@@ -179,7 +179,7 @@ The function applies an imputation-based regression calibration approach. A cali
 
 This approach is useful when direct use of the surrogate variables would lead to biased estimation because of measurement error.
 
-Value
+## Value
 
 regCalibCRS() returns measurement error–corrected regression results for the specified outcome model. The returned object typically contains:
 
@@ -191,7 +191,7 @@ and p-values.
 
 Depending on the implementation of the function, additional model components may also be returned.
 
-Notes
+## Notes
 
 The vectors sur and exp must have the same length.
 
@@ -203,7 +203,7 @@ When method = "glm", both family and link should be specified.
 
 When external = FALSE, vsIndicator should be provided.
 
-Example
+## Example
 source("regCalibCRS.R")
 
 rcim <- regCalibCRS(
@@ -219,8 +219,9 @@ rcim <- regCalibCRS(
   link = "logit",
   external = TRUE
 )
+---
 See Also
 
 regCalibRSW() for regression calibration using the deattenuation-factor method.
 
-References
+## References
