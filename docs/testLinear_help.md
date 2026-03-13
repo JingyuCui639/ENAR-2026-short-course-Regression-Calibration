@@ -1,5 +1,8 @@
 # testLinear
 
+**Wenze Tang** and **Molin Wang**  
+*Harvard T.H. Chan School of Public Health* 
+
 ## Description
 
 `testLinear()` fits a restricted cubic spline (RCS) model to assess whether the association between a single exposure variable and an outcome can be adequately represented as linear. The function supports both linear models (`lm`) and generalized linear models (`glm`), allows adjustment for additional covariates, and returns formal likelihood-ratio-test-based evidence on nonlinearity together with a fitted curve plot.
