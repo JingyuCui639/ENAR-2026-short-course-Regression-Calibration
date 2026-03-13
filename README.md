@@ -41,8 +41,8 @@ In this short course, participants will gain practical experience applying measu
 
 Participants will learn how to correct measurement error using two approaches:
 
-- **Imputation-based regression calibration** by R function [regCalibCRS](docs/regCalibCRS_help.md)
-- **Deattenuation factor method** by R function [regCalibRSW](docs/regCalibRSW_help.md)
+- **Imputation-based regression calibration** by R function [regCalibCRS](docs/regCalibCRS_help.md) (Wenze Tang, Molin Wang)
+- **Deattenuation factor method** by R function [regCalibRSW](docs/regCalibRSW_help.md) (Wenze Tang, Molin Wang)
 
 Both methods will be implemented using R functions provided in this repository.
 
@@ -127,7 +127,7 @@ Please see here for the solution of the demo code: [solution](https://jingyucui6
 
 # Also See
 The documentation for 
-*  [regCalibCRS](docs/regCalibCRS.md) to implement imputation-based regression calibration method;
-*  [regCalibRSW](docs/regCalibRSW.md) to implement deattenuation factor method.
+*  [regCalibCRS](docs/regCalibCRS_help.md) to implement imputation-based regression calibration method;
+*  [regCalibRSW](docs/regCalibRSW_help.md) to implement deattenuation factor method.
 
 ---
