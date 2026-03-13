@@ -35,7 +35,7 @@ This repository contains the **demo code and datasets** used in the short course
 - **Donna Spiegelman** *[Slides](https://raw.githubusercontent.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/main/course_material/Intro_Donna/intro%20donna.pptx)*  
 
 ### 2. Main Study/Validation Study Designs and Main Study/Reliability Study Designs  [ 1:30–2:00 PM]  
-- **Donna Spiegelman** *(Slides from Dropbox folder: "Study design--Donna")*  
+- **Donna Spiegelman** *[Slides](/course_material/Case_studies_Donna/)*  
 
 ### 3. Regression Calibration Methods for Adjusting Measurement Error Bias  [2:00–3:00 PM]  
 - **Molin Wang** *(Slides downloaded from Overleaf)*  
