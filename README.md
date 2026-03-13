@@ -5,7 +5,7 @@
 ![ENAR](https://img.shields.io/badge/event-ENAR%20Short%20Course-orange)
 ![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
 
-Welcome to the repository for the short course!
+# 👨‍🏫 Welcome to the repository for the short course!
 
 
 This repository contains the **demo code and datasets** used in the short course. The materials provide hands-on examples demonstrating how to implement modern measurement error correction methods in **R**.
@@ -108,25 +108,13 @@ After unzipping, the folder will contain the following files:
 
 Please see here for the solution of the demo code: [solution](https://jingyucui639.github.io/ENAR-2026-short-course-Regression-Calibration/).
 
-## [Course Slides](/course_material) are available in the folder `/course_material`.
 
 # 📌 Notes
 
-- All datasets and functions required for the demo are included.
-- No additional downloads are required.
-- The demo code is designed to be run interactively during the course.
+- [Course Slides](/course_material) are available in the folder `/course_material`.
+- The documentation for [regCalibCRS](docs/regCalibCRS_help.md) to implement imputation-based regression calibration method;
+- The documentation for  [regCalibRSW](docs/regCalibRSW_help.md) to implement deattenuation factor method.
 
----
 
-# 👨‍🏫 Short Course
 
-**Measurement Error Models in Action: The Latest Methods and Their Applications in Nutrition and Environmental Health**
 
----
-
-# Also See
-The documentation for 
-*  [regCalibCRS](docs/regCalibCRS_help.md) to implement imputation-based regression calibration method;
-*  [regCalibRSW](docs/regCalibRSW_help.md) to implement deattenuation factor method.
-
----
