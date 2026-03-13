@@ -1,5 +1,5 @@
 # Measurement Error Models in Action  
-### The Latest Methods and Their Applications in Nutrition and Environmental Health
+## The Latest Methods and Their Applications in Nutrition and Environmental Health
 
 
 ![ENAR](https://img.shields.io/badge/event-ENAR%20Short%20Course-orange)
