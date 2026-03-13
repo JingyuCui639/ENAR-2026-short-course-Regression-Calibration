@@ -28,21 +28,39 @@ This repository contains the **demo code and datasets** used in the short course
 
 ---
 
-# 📚 What You Will Learn
+# 📚 Course Agenda
 
-In this short course, participants will gain practical experience applying measurement error correction methods in epidemiologic and nutritional studies.
+# Short Course Agenda
 
-### 1️⃣ How to correct measurement error using two approaches.
+### 1. Impact of Measurement Error and Overview of Correction Methods  
+**Time:** 1:00–1:30 PM  
+- **Raymond J. Carroll** *(Slides downloaded from Overleaf)*  
+- **Donna Spiegelman** *(Slides from Dropbox folder: "Intro Donna")*  
 
-- **Imputation-based regression calibration** by R function [regCalibCRS](docs/regCalibCRS_help.md) (Wenze Tang, Molin Wang)
-- **Deattenuation factor method** by R function [regCalibRSW](docs/regCalibRSW_help.md) (Wenze Tang, Molin Wang)
+### 2. Main Study/Validation Study Designs and Main Study/Reliability Study Designs  
+**Time:** 1:30–2:00 PM  
+- **Donna Spiegelman** *(Slides from Dropbox folder: "Study design--Donna")*  
 
-### 2️⃣ Consider **nonlinearity** in the measurement error model.
+### 3. Regression Calibration Methods for Adjusting Measurement Error Bias  
+**Time:** 2:00–3:00 PM  
+- **Molin Wang** *(Slides downloaded from Overleaf)*  
 
-Participants will also learn how to apply measurement error correction in different scenarios, including:
+### 4. Hands-on Lab: R Examples from Nutritional and Environmental Epidemiology  
+**Time:** 3:00–3:45 PM  
+- **Jingyu Cui**  
 
-- Correcting measurement error in **exposure variables**
+### Break  
+**Time:** 3:45–4:00 PM  
 
+### 5. Machine Learning Methods for Measurement Error Correction  
+**Time:** 4:00–4:30 PM  
+- **Molin Wang** *(Slides from Dropbox folder: "Regression calibration--Molin/DML_ENAR2026.pptx, DML_RC_NO.pptx")*  
+  - Robust confounder control in higher-dimensional settings *(Gang’s paper)*  
+  - Variable selection in regression calibration, with discussion of alternative approaches based on our work with Wenze  
+
+### 6. Applications in Nutritional and Environmental Epidemiology  
+**Time:** 4:30–5:00 PM  
+- **Donna Spiegelman** *(Slides from Dropbox folder: "case studies--donna")*
 ---
 
 # ⚙️ Setup Instructions
