@@ -17,7 +17,7 @@ This repository contains the **demo code and datasets** used in the short course
 **Raymond J. Carroll** is Distinguished Professor of Statistics, Nutrition, and Toxicology at Texas A&M University and one of the leading contributors to the statistical theory and practice of measurement error modeling. He has served as editor of *Biometrics* and *Journal of the American Statistical Association* and is the author of the widely used textbook *Measurement Error in Nonlinear Models*. His research spans measurement error methodology, semiparametric modeling, and applications in epidemiology and biomedical science.
 
 
-![Donna Spiegelman](images/donna_spiegelman.jpg)
+![Donna Spiegelman](images/SC5-Donna-Spiegelman.png)
 **Donna Spiegelman** is Professor of Biostatistics at the Yale School of Public Health and founding director of the Center for Methods in Implementation and Prevention Science. She previously served on the faculty at the Harvard T.H. Chan School of Public Health for nearly three decades. Her research focuses on statistical methods for epidemiology, including measurement error correction, causal inference, and methods for complex public health studies. 
 
 **Molin Wang** is Associate Professor of Epidemiology and Biostatistics at the Harvard T.H. Chan School of Public Health. Her research addresses statistical challenges arising in large epidemiologic cohort studies, with particular emphasis on measurement error methods and their applications in nutritional and environmental epidemiology. She serves as lead statistician for several major cohort studies including the Nurses’ Health Study II and the Health Professionals Follow-up Study. 
