@@ -110,6 +110,7 @@ Please see here for the solution of the demo code: [solution](https://jingyucui6
 - [Course Slides](/course_material) are available in the folder `/course_material`.
 - See the  documentation for [regCalibCRS](docs/regCalibCRS_help.md) to implement imputation-based regression calibration method;
 - See the documentation for  [regCalibRSW](docs/regCalibRSW_help.md) to implement deattenuation factor method.
+- See the documentation for [testLinear](docs/testLinear_help.md) to test linearity for measurement error and outcome models.
 
 
 
