@@ -52,10 +52,8 @@ Both methods will be implemented using R functions provided in this repository.
 
 Participants will also learn how to apply measurement error correction in different scenarios, including:
 
-- Correcting measurement error in **exposure variables or covariates**
-- Working with **validation datasets**, including:
-  - Internal validation data
-  - External validation data
+- Correcting measurement error in **exposure variables**
+- Consider **nonlinearity** in the measurement error model.
 
 These methods will be illustrated through practical examples.
 
