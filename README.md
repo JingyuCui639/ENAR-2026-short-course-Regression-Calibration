@@ -14,7 +14,7 @@ This repository contains the **demo code and datasets** used in the short course
 
 ## Course Instructors 
 
-<img src="images/Raymond_Dusty_Rose.jpg" width="80">
+<img src="images/Raymond_Dusty_Rose.jpg" width="100">
 
 **Raymond J. Carroll** is Distinguished Professor of Statistics, Nutrition, and Toxicology at Texas A&M University and one of the leading contributors to the statistical theory and practice of measurement error modeling. He has served as editor of *Biometrics* and *Journal of the American Statistical Association* and is the author of the widely used textbook *Measurement Error in Nonlinear Models*. His research spans measurement error methodology, semiparametric modeling, and applications in epidemiology and biomedical science.
 
