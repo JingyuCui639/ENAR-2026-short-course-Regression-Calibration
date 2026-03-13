@@ -28,9 +28,7 @@ This repository contains the **demo code and datasets** used in the short course
 
 ---
 
-# 📚 Course Agenda
-
-# Short Course Agenda
+# 📚 Short Course Agenda
 
 ### 1. Impact of Measurement Error and Overview of Correction Methods  
 **Time:** 1:00–1:30 PM  
