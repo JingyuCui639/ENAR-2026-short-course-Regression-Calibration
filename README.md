@@ -47,7 +47,8 @@ This repository contains the **demo code and datasets** used in the short course
 ### Break  [**Time:** 3:45–4:00 PM]  
 
 ### 5. Machine Learning Methods for Measurement Error Correction  [4:00–4:30 PM]  
-- **Molin Wang** *[Slides]()*
+- **Molin Wang** *[Slides](https://raw.githubusercontent.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/main/course_material/Machine_learning_Molin/DML_ENAR%202026.pptx
+)*
   - Variable selection in regression calibration, with discussion of alternative approaches based on our work with Wenze 
   - Robust confounder control in higher-dimensional settings   
    
