@@ -47,9 +47,10 @@ This repository contains the **demo code and datasets** used in the short course
 ### Break  [**Time:** 3:45–4:00 PM]  
 
 ### 5. Machine Learning Methods for Measurement Error Correction  [4:00–4:30 PM]  
-- **Molin Wang** *(Slides from Dropbox folder: "Regression calibration--Molin/DML_ENAR2026.pptx, DML_RC_NO.pptx")*  
+- **Molin Wang** *[Slides]()*
+  - Variable selection in regression calibration, with discussion of alternative approaches based on our work with Wenze 
   - Robust confounder control in higher-dimensional settings   
-  - Variable selection in regression calibration, with discussion of alternative approaches based on our work with Wenze  
+   
 
 ### 6. Applications in Nutritional and Environmental Epidemiology  [4:30–5:00 PM]  
 - **Donna Spiegelman** *(Slides from Dropbox folder: "case studies--donna")*
