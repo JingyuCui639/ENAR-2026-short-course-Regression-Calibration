@@ -42,7 +42,7 @@ This repository contains the **demo code and datasets** used in the short course
 
 ### 4. Hands-on Lab: R Examples from Nutritional and Environmental Epidemiology  [ 3:00–3:45 PM]  
 - **Jingyu Cui**  *[download Code](https://raw.githubusercontent.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/main/course_material/ENAR_short_course.zip
-)* *[Code running instructions](https://github.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/blob/main/README.md#%EF%B8%8F-setup-instructions-for-r-seccion)*
+)*      *[Code running instructions](https://github.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/blob/main/README.md#%EF%B8%8F-setup-instructions-for-r-seccion)*
 
 ### Break  [**Time:** 3:45–4:00 PM]  
 
