@@ -57,9 +57,9 @@ This repository contains the **demo code and datasets** used in the short course
 - **Donna Spiegelman** *[Slides](https://github.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/tree/main/course_material/Case_studies_Donna)*
 ---
 
-# ⚙️ Setup Instructions
+## ⚙️ Setup Instructions For R Seccion
 
-## Step 1: Install R and RStudio
+### Step 1: Install R and RStudio
 
 Please ensure that the following software is installed on your computer.
 
@@ -71,9 +71,9 @@ https://cran.r-project.org/
 
 https://posit.co/download/rstudio-desktop/
 
----
 
-## Step 2: ⬇️ Download Course Materials
+
+### Step 2: ⬇️ Download Course Materials
 
 Click the button below to download all files required for the demo.
 
@@ -81,7 +81,7 @@ Click the button below to download all files required for the demo.
 
 After downloading, unzip the file to access the course materials.
 
-## Step 3: Unzip the folder
+### Step 3: Unzip the folder
 
 After unzipping, the folder will contain the following files:
 
@@ -94,9 +94,9 @@ After unzipping, the folder will contain the following files:
 | 'testLinear.R' | R function testing the linearity of measurement error and outcome models |
 | `Regression Calibration demo2.qmd` | Quarto document containing the demonstration code |
 
----
 
-## Step 4: Run the demo
+
+### Step 4: Run the demo
 
 1. Open the file: Regression Calibration demo.qmd in **RStudio**
 
