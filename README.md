@@ -68,11 +68,8 @@ https://cran.r-project.org/
 **RStudio**
 https://posit.co/download/rstudio-desktop/
 
-#### 2. Download R Dode
-
-[Download R Code](https://raw.githubusercontent.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/main/course_material/4-R_lab.zip
+#### 2. Download R Code [Link](https://raw.githubusercontent.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/main/course_material/4-R_lab.zip
 )
-
 
 **⚠ Data Use Notice:**  
 The dataset provided here is for instructional use in this short course only and may not be copied, redistributed, or used for any other purpose.
