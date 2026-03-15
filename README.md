@@ -87,7 +87,7 @@ After unzipping the file, the folder will contain the following files:
 | `valid_data_external.csv` | External validation dataset |
 | `regCalibCRS.R` | R function implementing regression calibration using the **imputation method** |
 | `regCalibRSW.R` | R function implementing regression calibration using the **deattenuation factor method** |
-| 'testLinear.R' | R function testing the linearity of measurement error and outcome models |
+| `testLinear.R` | R function testing the linearity of measurement error and outcome models |
 | `Regression Calibration demo2.qmd` | Quarto document containing the demonstration code |
 
 #### 4. Run `Regression Calibration demo2.qmd` in **RStudio**
