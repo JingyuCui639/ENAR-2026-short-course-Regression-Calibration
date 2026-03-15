@@ -71,11 +71,10 @@ https://posit.co/download/rstudio-desktop/
 #### 2. Download R Dode
 [Download Materials](https://raw.githubusercontent.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/main/course_material/ENAR_short_course.zip)
 
-After downloading, unzip the file to access the course materials.
 
 #### 3. Unzip the folder
 
-After unzipping, the folder will contain the following files:
+After unzipping the file, the folder will contain the following files:
 
 | File | Description |
 |-----|-------------|
