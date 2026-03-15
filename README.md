@@ -70,20 +70,19 @@ https://posit.co/download/rstudio-desktop/
 
 #### 2. Download R Dode
 
+[Download Materials](https://raw.githubusercontent.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/main/course_material/ENAR_short_course.zip)
+
+
 **⚠ Data Use Notice:**  
 The dataset provided here is for instructional use in this short course only and may not be copied, redistributed, or used for any other purpose.
 
-<div style="color:red; font-size:22px; font-weight:bold;">
+<div style="border:2px solid red; padding:12px; border-radius:6px;">
+<span style="color:red; font-size:20px; font-weight:bold;">
 ⚠ Data Use Notice
-</div>
+</span>
 
-<div style="font-size:18px;">
 The dataset provided here is for instructional use in this short course only and may not be copied, redistributed, or used for any other purpose.
 </div>
-
-
-[Download Materials](https://raw.githubusercontent.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/main/course_material/ENAR_short_course.zip)
-
 
 #### 3. Unzip the folder
 
