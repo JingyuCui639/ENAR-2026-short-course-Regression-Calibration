@@ -68,7 +68,7 @@ https://cran.r-project.org/
 **RStudio**
 https://posit.co/download/rstudio-desktop/
 
-#### 2. Download Course Materials
+#### 2. Download R Dode
 [Download Materials](https://raw.githubusercontent.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/main/course_material/ENAR_short_course.zip)
 
 After downloading, unzip the file to access the course materials.
