@@ -89,9 +89,9 @@ After unzipping the file, the folder will contain the following files:
 
 ---
 
-## Solution of demo Code
+## Solution of Demo Code
 
-Please see here for the solution of the demo code: [solution](https://jingyucui639.github.io/ENAR-2026-short-course-Regression-Calibration/).
+Please see the solution of the demo code: [solution](https://jingyucui639.github.io/ENAR-2026-short-course-Regression-Calibration/).
 
 
 # 📌 Notes
